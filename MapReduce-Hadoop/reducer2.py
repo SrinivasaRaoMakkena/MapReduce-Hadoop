@@ -1,4 +1,4 @@
-sorted = open("sort.txt","r")   
+sorted = open("sort1.txt","r")   
 results = open("reducer_results.txt", "w")   
 storeTotal = 0        
 oldStore = None    
@@ -19,7 +19,7 @@ for line in lines:
 
     oldStore = thisStore
     if thisSale != None:
-        storeTotal += int(thisSale) 
+        storeTotal += float(thisSale) 
 
 if oldStore != None: 
     results.write("{0}\t{1}\n".format(oldStore, storeTotal))

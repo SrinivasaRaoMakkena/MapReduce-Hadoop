@@ -1,0 +1,1001 @@
+STATE,YEAR,MONTH_NAME,EVENT_TYPE,INJURIES_DIRECT,INJURIES_INDIRECT,DEATHS_DIRECT,DEATHS_INDIRECT,DAMAGE_PROPERTY
+MASSACHUSETTS,1999,January,Heavy Snow,0,0,0,0,
+MICHIGAN,1999,January,Blizzard,0,0,0,0,
+OHIO,1999,January,Winter Storm,0,0,0,0,2K
+MISSOURI,1999,August,Drought,0,0,0,0,
+NEW YORK,1999,January,Winter Storm,0,0,0,0,3K
+NEBRASKA,1999,January,Cold/Wind Chill,0,0,0,0,
+SOUTH DAKOTA,1999,January,Winter Storm,0,0,0,0,
+SOUTH DAKOTA,1999,January,Winter Storm,0,0,0,0,
+SOUTH DAKOTA,1999,January,Winter Storm,0,0,0,0,
+TEXAS,1999,January,Thunderstorm Wind,0,0,0,0,50K
+TEXAS,1999,January,Hail,0,0,0,0,
+TEXAS,1999,January,Hail,0,0,0,0,
+GEORGIA,1999,January,Sleet,0,0,0,0,
+GEORGIA,1999,January,Sleet,0,0,0,0,
+SOUTH CAROLINA,1999,January,Ice Storm,0,0,0,0,1.54M
+MISSISSIPPI,1999,January,Flash Flood,0,0,0,0,20K
+ILLINOIS,1999,January,Hail,0,0,0,0,
+LOUISIANA,1999,January,Tornado,0,0,0,0,60K
+OHIO,1999,January,Winter Storm,0,0,0,0,
+OHIO,1999,January,Winter Storm,0,0,0,0,
+OHIO,1999,January,Winter Storm,0,0,0,0,
+SOUTH DAKOTA,1999,January,Winter Storm,0,0,0,0,
+VIRGINIA,1999,January,Winter Weather,0,0,0,0,
+LOUISIANA,1999,January,Tornado,0,0,0,0,88K
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+FLORIDA,1999,January,Dense Fog,0,0,0,0,0
+VIRGINIA,1999,January,Winter Weather,0,0,0,0,
+VIRGINIA,1999,January,Winter Weather,0,0,0,0,
+OKLAHOMA,1999,January,Hail,0,0,0,0,
+SOUTH CAROLINA,1999,January,Ice Storm,0,0,0,0,1.54M
+KENTUCKY,1999,January,Ice Storm,0,0,0,0,
+PENNSYLVANIA,1999,January,Winter Storm,0,0,1,0,
+NEW JERSEY,1999,January,Winter Storm,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+NEW JERSEY,1999,January,Winter Weather,0,0,0,0,
+GEORGIA,1999,January,Thunderstorm Wind,0,0,0,0,8K
+SOUTH CAROLINA,1999,January,Sleet,0,0,0,0,
+SOUTH CAROLINA,1999,January,Sleet,0,0,0,0,
+SOUTH CAROLINA,1999,January,Sleet,0,0,0,0,
+OHIO,1999,January,Heat,0,0,0,0,
+KENTUCKY,1999,January,Winter Storm,0,0,0,0,
+VIRGINIA,1999,January,Winter Weather,0,0,0,0,
+MARYLAND,1999,January,Winter Weather,0,0,0,0,
+MASSACHUSETTS,1999,January,Strong Wind,0,0,0,0,
+NORTH DAKOTA,1999,January,Winter Storm,0,0,0,0,
+OREGON,1999,January,Heavy Snow,0,0,0,0,
+MISSOURI,1999,January,Flash Flood,0,0,0,0,
+MISSOURI,1999,January,Flash Flood,0,0,0,0,70K
+NEW YORK,1999,January,Winter Storm,0,0,0,0,.5K
+CONNECTICUT,1999,January,Flash Flood,0,0,0,0,
+NEW HAMPSHIRE,1999,January,Heavy Snow,0,0,0,0,
+OREGON,1999,January,Heavy Snow,0,0,0,0,
+WISCONSIN,1999,January,Cold/Wind Chill,0,0,0,0,
+WISCONSIN,1999,January,Cold/Wind Chill,0,0,0,0,
+ALASKA,1999,January,Cold/Wind Chill,0,0,0,0,
+NORTH CAROLINA,1999,January,Ice Storm,0,0,0,0,
+NORTH CAROLINA,1999,January,Ice Storm,0,0,0,0,
+MISSISSIPPI,1999,January,Flash Flood,0,0,0,0,
+KENTUCKY,1999,January,Ice Storm,0,0,0,0,0
+MISSISSIPPI,1999,January,Flash Flood,0,0,1,0,.5M
+MISSISSIPPI,1999,January,Flash Flood,0,0,0,0,50K
+MISSISSIPPI,1999,January,Flash Flood,0,0,0,0,
+MISSISSIPPI,1999,January,Flash Flood,0,0,0,0,
+MISSOURI,1999,January,Flash Flood,0,0,0,0,
+TEXAS,1999,January,Hail,0,0,0,0,
+TEXAS,1999,January,Hail,0,0,0,0,
+TEXAS,1999,January,Hail,0,0,0,0,
+OHIO,1999,January,Winter Storm,0,0,0,0,2K
+OHIO,1999,January,Winter Storm,0,0,0,0,5K
+OHIO,1999,January,Winter Storm,0,0,0,0,2K
+MICHIGAN,1999,January,Blizzard,0,0,0,0,
+CONNECTICUT,1999,January,Strong Wind,0,0,0,0,
+MISSOURI,1999,August,Drought,0,0,0,0,
+TEXAS,1999,April,Tornado,0,0,0,0,190K
+MISSOURI,1999,May,Thunderstorm Wind,0,0,0,0,40K
+MISSOURI,1999,May,Hail,0,0,0,0,
+ILLINOIS,1999,May,Hail,0,0,0,0,
+VIRGINIA,1999,May,Thunderstorm Wind,0,0,0,0,
+TENNESSEE,1999,May,Thunderstorm Wind,0,0,0,0,
+KENTUCKY,1999,May,Thunderstorm Wind,0,0,0,0,4K
+FLORIDA,1999,May,Hail,0,0,0,0,
+NEW YORK,1999,January,Winter Storm,0,0,0,0,
+FLORIDA,1999,May,Hail,0,0,0,0,
+INDIANA,1999,June,Hail,0,0,0,0,
+INDIANA,1999,June,Flood,0,0,0,0,
+INDIANA,1999,June,Thunderstorm Wind,0,0,0,0,
+ALASKA,1999,November,High Wind,0,0,0,0,
+WEST VIRGINIA,1999,September,Drought,0,0,0,0,
+SOUTH DAKOTA,1999,October,Heavy Snow,0,0,0,0,
+SOUTH DAKOTA,1999,October,Heavy Snow,0,0,0,0,
+MAINE,1999,September,Heavy Rain,0,0,0,0,
+MAINE,1999,September,Heavy Rain,0,0,0,0,
+TEXAS,1999,September,Funnel Cloud,0,0,0,0,0K
+TEXAS,1999,September,Waterspout,0,0,0,0,0K
+TEXAS,1999,September,Hail,0,0,0,0,15K
+MARYLAND,1999,September,Flash Flood,0,0,0,0,
+MASSACHUSETTS,1999,September,Heavy Rain,0,0,0,0,
+WEST VIRGINIA,1999,September,Drought,0,0,0,0,
+SOUTH DAKOTA,1999,October,Heavy Snow,0,0,0,0,
+SOUTH DAKOTA,1999,October,Heavy Snow,0,0,0,0,
+SOUTH DAKOTA,1999,October,Heavy Snow,0,0,0,0,
+NEW HAMPSHIRE,1999,September,Heavy Rain,0,0,0,0,
+MAINE,1999,September,Heavy Rain,0,0,0,0,
+MASSACHUSETTS,1999,September,Heavy Rain,0,0,0,0,
+WEST VIRGINIA,1999,September,Drought,0,0,0,0,
+MASSACHUSETTS,1999,September,Heavy Rain,0,0,0,0,
+TEXAS,1999,September,Thunderstorm Wind,0,0,0,0,15K
+MAINE,1999,September,Heavy Rain,0,0,0,0,
+TEXAS,1999,September,Funnel Cloud,0,0,0,0,0K
+NORTH CAROLINA,1999,September,High Wind,0,0,0,0,
+NORTH CAROLINA,1999,September,High Wind,0,0,0,0,
+NORTH CAROLINA,1999,September,High Wind,0,0,0,0,
+NORTH CAROLINA,1999,September,Hurricane (Typhoon),0,0,0,0,22M
+NORTH CAROLINA,1999,September,Hurricane (Typhoon),0,0,0,0,37M
+NORTH CAROLINA,1999,September,Hurricane (Typhoon),0,0,0,0,50M
+NEW HAMPSHIRE,1999,September,Heavy Rain,0,0,0,0,
+NEW HAMPSHIRE,1999,September,Heavy Rain,0,0,0,0,
+MAINE,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,0,0,0,0,
+INDIANA,1999,June,Hail,0,0,0,0,
+INDIANA,1999,June,Flood,0,0,0,0,
+COLORADO,1999,April,High Wind,0,0,0,0,
+TEXAS,1999,June,Flash Flood,0,0,0,0,
+TEXAS,1999,June,Hail,0,0,0,0,
+PUERTO RICO,1999,June,Flood,0,0,0,0,
+VIRGIN ISLANDS,1999,June,Thunderstorm Wind,0,0,0,0,
+FLORIDA,1999,June,Thunderstorm Wind,0,0,0,0,5K
+FLORIDA,1999,June,Thunderstorm Wind,0,0,0,0,1K
+FLORIDA,1999,June,Thunderstorm Wind,0,0,0,0,25K
+FLORIDA,1999,June,Hail,0,0,0,0,
+FLORIDA,1999,June,Lightning,2,0,0,0,
+TEXAS,1999,June,Flash Flood,0,0,0,0,
+NEW MEXICO,1999,July,Flash Flood,0,0,0,0,
+TEXAS,1999,July,Thunderstorm Wind,0,0,0,0,
+TEXAS,1999,July,Flash Flood,0,0,0,0,
+TEXAS,1999,July,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,50K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,20K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,15K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,20K
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,
+OKLAHOMA,1999,August,Thunderstorm Wind,0,0,0,0,.2K
+NEW MEXICO,1999,July,Flash Flood,0,0,0,0,
+NEW MEXICO,1999,July,Flash Flood,0,0,0,0,
+NEW MEXICO,1999,July,Hail,0,0,0,0,
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,20K
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+TEXAS,1999,April,Hail,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,50K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,10K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,50K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,5K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,5K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+SOUTH CAROLINA,1999,September,Hurricane (Typhoon),0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,2K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,1K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Hail,0,0,0,0,
+WEST VIRGINIA,1999,August,Drought,0,0,0,0,
+WEST VIRGINIA,1999,August,Drought,0,0,0,0,
+WEST VIRGINIA,1999,August,Drought,0,0,0,0,
+WEST VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,September,Drought,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,25K
+PENNSYLVANIA,1999,July,Hail,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Flash Flood,0,0,0,0,20K
+MINNESOTA,1999,July,Funnel Cloud,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Tornado,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Tornado,0,0,0,0,
+MINNESOTA,1999,July,Tornado,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Heat,0,0,0,0,
+PENNSYLVANIA,1999,August,Waterspout,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Flash Flood,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+KANSAS,1999,August,Thunderstorm Wind,0,0,0,0,5K
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,5K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,75K
+SOUTH CAROLINA,1999,August,Thunderstorm Wind,0,0,0,0,
+OHIO,1999,August,Drought,0,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,
+SOUTH CAROLINA,1999,August,Lightning,1,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,200K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+PENNSYLVANIA,1999,July,Thunderstorm Wind,0,0,0,0,3K
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+KANSAS,1999,August,Thunderstorm Wind,0,0,0,0,
+KANSAS,1999,August,Thunderstorm Wind,0,0,0,0,
+KANSAS,1999,August,Flood,0,0,0,0,
+CALIFORNIA,1999,August,Hail,0,0,0,0,
+NEW MEXICO,1999,August,Flash Flood,0,0,0,0,
+WISCONSIN,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,1,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+NEW YORK,1999,August,Thunderstorm Wind,0,0,0,0,115K
+WISCONSIN,1999,July,Heat,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+SOUTH CAROLINA,1999,August,Hail,0,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,35K
+SOUTH CAROLINA,1999,August,Thunderstorm Wind,0,0,0,0,
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,2.5K
+GEORGIA,1999,August,Thunderstorm Wind,0,0,0,0,3.5K
+GEORGIA,1999,August,Waterspout,0,0,0,0,
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,3.5K
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,2.5K
+GEORGIA,1999,August,Thunderstorm Wind,0,0,0,0,2.5K
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,2.5K
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,2.5K
+MINNESOTA,1999,July,Heat,0,0,0,0,
+WISCONSIN,1999,July,Funnel Cloud,0,0,0,0,
+WISCONSIN,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Heat,0,0,0,0,
+MINNESOTA,1999,July,Hail,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+MINNESOTA,1999,July,Thunderstorm Wind,0,0,0,0,
+ILLINOIS,1999,July,Heat,0,0,0,0,
+MICHIGAN,1999,July,Thunderstorm Wind,0,0,0,0,10K
+MICHIGAN,1999,July,Thunderstorm Wind,0,0,0,0,10K
+MICHIGAN,1999,July,Thunderstorm Wind,0,0,0,0,10K
+ILLINOIS,1999,July,Heat,0,0,0,0,
+MICHIGAN,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,25K
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,10K
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,25K
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,25K
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+ILLINOIS,1999,July,Heat,0,0,0,0,
+OKLAHOMA,1999,August,Thunderstorm Wind,0,0,0,0,.1K
+OKLAHOMA,1999,June,Thunderstorm Wind,0,0,0,0,1K
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+OKLAHOMA,1999,June,Lightning,0,0,0,0,.5K
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+OKLAHOMA,1999,June,Hail,0,0,0,0,
+ILLINOIS,1999,July,Heat,0,0,0,0,
+ILLINOIS,1999,July,Heat,0,0,0,0,
+SOUTH CAROLINA,1999,September,High Wind,0,0,0,0,
+ILLINOIS,1999,July,Heat,0,0,0,0,
+ILLINOIS,1999,July,Heat,0,0,0,0,
+NEW MEXICO,1999,July,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,
+OKLAHOMA,1999,June,Flash Flood,0,0,0,0,
+OKLAHOMA,1999,August,Hail,0,0,0,0,
+OKLAHOMA,1999,August,Thunderstorm Wind,0,0,0,0,.1K
+ARKANSAS,1999,August,Thunderstorm Wind,0,0,0,0,.5K
+ILLINOIS,1999,July,Heat,0,0,0,0,
+ALASKA,1999,August,Heavy Rain,0,0,0,0,
+TEXAS,1999,June,Flash Flood,0,0,0,0,
+OKLAHOMA,1999,August,Thunderstorm Wind,0,0,0,0,1K
+NEW YORK,1999,July,Thunderstorm Wind,12,0,0,0,50K
+WISCONSIN,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Flash Flood,0,0,0,0,.5M
+WISCONSIN,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+WISCONSIN,1999,July,Hail,0,0,0,0,
+WISCONSIN,1999,July,Thunderstorm Wind,0,0,0,0,
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,50K
+OREGON,1999,October,Cold/Wind Chill,0,0,0,0,
+NEVADA,1999,September,Thunderstorm Wind,0,0,0,0,0
+PUERTO RICO,1999,September,Tornado,0,0,0,0,
+PUERTO RICO,1999,September,Flood,0,0,0,0,
+COLORADO,1999,December,Heavy Snow,0,0,0,0,
+COLORADO,1999,December,Heavy Snow,0,0,0,0,
+COLORADO,1999,December,Heavy Snow,0,0,0,0,
+COLORADO,1999,December,Heavy Snow,0,0,0,0,
+GUAM,1999,November,Flood,0,0,0,0,
+PUERTO RICO,1999,September,Flood,0,0,0,0,
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,100K
+GUAM,1999,November,Funnel Cloud,0,0,0,0,
+VERMONT,1999,December,Winter Weather,0,0,0,0,50K
+MICHIGAN,1999,December,Heavy Snow,0,0,0,0,
+COLORADO,1999,November,Winter Storm,0,0,0,0,0
+COLORADO,1999,November,Winter Storm,0,0,0,0,0
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,40K
+MICHIGAN,1999,December,Heavy Snow,0,0,0,0,
+OREGON,1999,October,Cold/Wind Chill,0,0,0,0,
+SOUTH CAROLINA,1999,August,Hail,0,0,0,0,
+PUERTO RICO,1999,September,Flood,0,0,0,0,
+VERMONT,1999,September,High Wind,0,0,0,0,50K
+VERMONT,1999,September,High Wind,0,0,0,0,100K
+FLORIDA,1999,October,Waterspout,0,0,0,0,
+FLORIDA,1999,October,Hurricane (Typhoon),4,0,0,0,54M
+FLORIDA,1999,October,Hurricane (Typhoon),0,0,0,0,140M
+FLORIDA,1999,October,Hurricane (Typhoon),0,0,0,0,68M
+FLORIDA,1999,October,Tornado,0,0,0,0,100K
+FLORIDA,1999,October,Flash Flood,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+VIRGINIA,1999,August,Drought,0,0,0,0,
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,100K
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,5K
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,5K
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,5K
+NEVADA,1999,August,Hail,0,0,0,0,
+TEXAS,1999,August,Thunderstorm Wind,0,0,0,0,100K
+NEBRASKA,1999,August,Hail,0,0,0,0,0
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+SOUTH CAROLINA,1999,August,Thunderstorm Wind,0,0,0,0,
+FLORIDA,1999,August,Funnel Cloud,0,0,0,0,
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,5K
+LOUISIANA,1999,August,Hail,0,0,0,0,
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,
+TEXAS,1999,August,Hail,0,0,0,0,
+LOUISIANA,1999,August,Lightning,1,0,0,0,
+LOUISIANA,1999,August,Thunderstorm Wind,0,0,0,0,15K
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,25K
+OREGON,1999,October,Cold/Wind Chill,0,0,0,0,
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,75K
+NEBRASKA,1999,August,Thunderstorm Wind,0,0,0,0,0
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+VERMONT,1999,November,Winter Weather,0,0,0,0,1K
+NEW YORK,1999,November,Winter Weather,0,0,0,0,1K
+VERMONT,1999,December,Winter Weather,0,0,0,0,5K
+VERMONT,1999,November,Winter Weather,0,0,0,0,1K
+NEW YORK,1999,November,Winter Weather,0,0,0,0,1K
+NORTH CAROLINA,1999,September,Hurricane (Typhoon),0,0,0,0,
+NORTH CAROLINA,1999,September,Flash Flood,0,0,0,0,
+NORTH CAROLINA,1999,September,Thunderstorm Wind,0,0,0,0,
+NORTH CAROLINA,1999,September,Hail,0,0,0,0,
+HAWAII,1999,December,High Surf,0,0,0,0,
+HAWAII,1999,December,High Surf,0,0,0,0,
+NORTH CAROLINA,1999,September,Flash Flood,0,0,0,0,
+NORTH CAROLINA,1999,September,Flash Flood,0,0,0,0,
+NORTH CAROLINA,1999,September,Flash Flood,0,0,0,0,
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+UTAH,1999,December,Heavy Snow,0,0,0,0,0
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+HAWAII,1999,December,Flash Flood,0,0,0,0,
+HAWAII,1999,December,Flash Flood,0,0,0,0,
+VERMONT,1999,November,Winter Storm,3,0,0,0,15K
+NORTH CAROLINA,1999,December,Winter Weather,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,.5K
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,100K
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Thunderstorm Wind,0,0,0,0,2K
+KANSAS,1999,September,Hail,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Lightning,0,0,0,0,5K
+FLORIDA,1999,September,Flood,0,0,0,0,250K
+FLORIDA,1999,September,Waterspout,0,0,0,0,0
+FLORIDA,1999,September,Flood,0,0,0,0,50K
+ALASKA,1999,October,High Wind,0,0,0,0,
+ALASKA,1999,October,High Wind,0,0,0,0,
+ALASKA,1999,October,High Wind,0,0,0,0,
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+MARYLAND,1999,September,Drought,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+WEST VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,
+KANSAS,1999,September,Lightning,0,0,0,0,40K
+MAINE,1999,September,High Wind,0,0,0,0,
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+MAINE,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,August,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,8K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,40K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+MAINE,1999,September,High Wind,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+MARYLAND,1999,September,Thunderstorm Wind,0,0,0,0,3K
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Thunderstorm Wind,0,0,0,0,3K
+MARYLAND,1999,September,Flash Flood,15,0,0,0,2.6M
+MARYLAND,1999,September,Flash Flood,0,0,0,0,10K
+MARYLAND,1999,September,Flash Flood,0,0,0,0,50K
+MARYLAND,1999,September,Flash Flood,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,0,0,0,0,500K
+MARYLAND,1999,September,Flash Flood,0,0,0,0,2M
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,.01K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,5K
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+FLORIDA,1999,September,Flood,0,0,0,0,25K
+FLORIDA,1999,September,Flood,0,0,0,0,20K
+FLORIDA,1999,September,Flood,0,0,0,0,50K
+FLORIDA,1999,September,Flood,0,0,0,0,25K
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Hail,0,0,0,0,
+KANSAS,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,.1K
+OKLAHOMA,1999,September,Lightning,0,0,0,0,4K
+FLORIDA,1999,September,Flood,0,0,0,0,10K
+FLORIDA,1999,September,Flood,0,0,0,0,50K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,.5K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,10K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,10K
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,.01K
+ALASKA,1999,October,High Wind,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Hail,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+WEST VIRGINIA,1999,September,Thunderstorm Wind,1,0,0,0,40K
+MAINE,1999,September,High Wind,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,100K
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,High Wind,0,0,0,0,25K
+MARYLAND,1999,September,High Wind,0,0,0,0,5K
+MARYLAND,1999,September,High Wind,0,0,0,0,100K
+MARYLAND,1999,September,Flash Flood,1,0,0,0,
+MARYLAND,1999,September,Flash Flood,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,0,0,0,0,500K
+MARYLAND,1999,September,High Wind,0,0,0,0,15K
+MARYLAND,1999,September,High Wind,0,0,0,0,2K
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,3K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+TEXAS,1999,September,Thunderstorm Wind,0,0,0,0,
+TEXAS,1999,September,Hail,0,0,0,0,
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,1K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,10K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,10K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,10K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+PUERTO RICO,1999,August,Flood,0,0,0,0,
+FLORIDA,1999,August,Waterspout,0,0,0,0,0
+FLORIDA,1999,August,Hail,0,0,0,0,0
+FLORIDA,1999,August,Tornado,0,0,0,0,5K
+FLORIDA,1999,August,Thunderstorm Wind,0,0,0,0,10K
+MAINE,1999,September,High Wind,0,0,0,0,
+SOUTH DAKOTA,1999,August,Hail,0,0,0,0,
+WYOMING,1999,August,Thunderstorm Wind,0,0,0,0,5K
+WASHINGTON,1999,September,High Wind,0,0,0,0,6K
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+FLORIDA,1999,September,Tropical Storm,0,0,0,0,0
+TEXAS,1999,September,Hail,0,0,0,0,
+TEXAS,1999,September,Thunderstorm Wind,0,0,0,0,10K
+TEXAS,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Lightning,0,0,0,0,2K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+TEXAS,1999,September,Hail,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,5,0,0,0,480K
+CALIFORNIA,1999,October,Wildfire,7,0,0,0,
+MONTANA,1999,September,Thunderstorm Wind,0,0,0,0,
+MONTANA,1999,September,Hail,0,0,0,0,
+MONTANA,1999,September,High Wind,0,0,0,0,
+SOUTH DAKOTA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,22K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,1K
+NEW YORK,1999,September,Flood,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Flash Flood,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Flash Flood,0,0,0,0,
+VIRGINIA,1999,August,Flash Flood,0,0,0,0,
+VIRGINIA,1999,August,Flash Flood,0,0,0,0,
+NORTH CAROLINA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Hail,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,1K
+VIRGINIA,1999,August,Hail,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,15K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,1K
+VIRGINIA,1999,August,Flash Flood,0,0,0,0,
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,1K
+VIRGINIA,1999,August,Thunderstorm Wind,0,0,0,0,2K
+NEW YORK,1999,September,Flash Flood,0,0,0,0,
+TEXAS,1999,September,Hail,0,0,0,0,
+VERMONT,1999,September,Flash Flood,0,0,0,0,300K
+MAINE,1999,September,High Wind,0,0,0,0,
+VERMONT,1999,September,Flash Flood,0,0,0,0,476K
+TEXAS,1999,September,Flash Flood,0,0,0,0,5K
+FLORIDA,1999,October,Waterspout,0,0,0,0,
+FLORIDA,1999,October,Waterspout,0,0,0,0,
+FLORIDA,1999,September,Thunderstorm Wind,0,0,0,0,2.5K
+FLORIDA,1999,September,Hurricane (Typhoon),0,0,0,0,1M
+FLORIDA,1999,September,Thunderstorm Wind,0,0,0,0,2.5K
+FLORIDA,1999,September,Flash Flood,0,0,0,0,35K
+FLORIDA,1999,September,Thunderstorm Wind,0,0,0,0,3.5K
+GEORGIA,1999,September,Thunderstorm Wind,0,0,0,0,2.5K
+GEORGIA,1999,September,Thunderstorm Wind,0,0,0,0,3.5K
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+FLORIDA,1999,October,Rip Current,2,0,0,0,
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,400K
+MARYLAND,1999,September,High Wind,0,0,0,0,400K
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,100K
+FLORIDA,1999,September,Coastal Flood,0,0,0,0,
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,2K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,10K
+VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+ALABAMA,1999,September,High Wind,0,0,0,0,2K
+ALABAMA,1999,September,High Wind,0,0,0,0,2K
+ALABAMA,1999,September,Thunderstorm Wind,0,0,0,0,1K
+ALABAMA,1999,September,Thunderstorm Wind,0,0,0,0,1K
+ALABAMA,1999,September,Thunderstorm Wind,0,0,0,0,25K
+OREGON,1999,September,High Wind,0,0,0,0,
+VERMONT,1999,September,High Wind,0,0,0,0,175K
+FLORIDA,1999,September,Hurricane (Typhoon),0,0,0,0,2.5M
+FLORIDA,1999,September,Thunderstorm Wind,0,0,0,0,1.5K
+FLORIDA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+VIRGIN ISLANDS,1999,October,Hurricane (Typhoon),0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+PUERTO RICO,1999,October,Flood,0,0,0,0,
+PUERTO RICO,1999,October,Flood,0,0,0,0,
+PUERTO RICO,1999,October,Flood,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,15K
+PENNSYLVANIA,1999,October,Thunderstorm Wind,0,0,0,0,20K
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NORTH CAROLINA,1999,October,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,2,0,0,0,4M
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,.4M
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,2M
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,High Wind,0,0,0,0,
+MARYLAND,1999,September,High Wind,0,0,0,0,
+MARYLAND,1999,September,High Wind,0,0,0,0,.5M
+MARYLAND,1999,September,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+ALASKA,1999,November,High Wind,0,0,0,0,
+ALASKA,1999,November,High Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+TEXAS,1999,September,Hail,0,0,0,0,
+ALABAMA,1999,September,Cold/Wind Chill,0,0,0,0,0K
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+CALIFORNIA,1999,October,High Wind,0,0,0,0,30K
+CALIFORNIA,1999,October,Wildfire,0,0,0,0,
+CALIFORNIA,1999,October,Dust Storm,0,0,0,0,
+CALIFORNIA,1999,October,High Wind,0,0,0,0,
+CALIFORNIA,1999,October,Dense Fog,0,0,0,0,20K
+ALASKA,1999,September,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,1K
+VERMONT,1999,July,Thunderstorm Wind,0,0,0,0,5K
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+DISTRICT OF COLUMBIA,1999,September,Storm Surge/Tide,0,0,0,0,
+DISTRICT OF COLUMBIA,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,25K
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+SOUTH DAKOTA,1999,August,Thunderstorm Wind,0,0,0,0,500K
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,0,0,0,0,550K
+CALIFORNIA,1999,October,High Wind,0,0,0,0,
+CALIFORNIA,1999,October,High Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+MAINE,1999,September,High Wind,0,0,0,0,
+WEST VIRGINIA,1999,September,Heavy Rain,0,0,0,0,
+CALIFORNIA,1999,October,High Wind,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,0,0,0,0,
+VERMONT,1999,September,High Wind,0,0,0,0,150K
+NEW YORK,1999,July,Thunderstorm Wind,0,0,0,0,20K
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+WEST VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,5K
+TEXAS,1999,September,Hail,0,0,0,0,
+MARYLAND,1999,September,Drought,0,0,0,0,
+MARYLAND,1999,September,Heavy Rain,1,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+ALABAMA,1999,September,Rip Current,1,0,1,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+WISCONSIN,1999,September,Hail,0,0,0,0,
+WISCONSIN,1999,September,Hail,0,0,0,0,
+WISCONSIN,1999,September,Hail,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+MARYLAND,1999,September,Storm Surge/Tide,0,0,0,0,
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,100K
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,150K
+MARYLAND,1999,September,Tropical Storm,0,0,0,0,25K
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,0
+MARYLAND,1999,September,Heavy Rain,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Thunderstorm Wind,0,0,0,0,
+OKLAHOMA,1999,September,Hail,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NEVADA,1999,September,Flash Flood,0,0,0,0,5K
+VIRGIN ISLANDS,1999,October,Hurricane (Typhoon),0,0,0,0,
+VIRGIN ISLANDS,1999,October,Hurricane (Typhoon),0,0,0,0,20K
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+WISCONSIN,1999,November,Heat,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+NORTH DAKOTA,1999,October,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+ALASKA,1999,September,High Wind,0,0,0,0,
+COLORADO,1999,October,Heavy Snow,0,0,0,0,0
+NEW JERSEY,1999,September,Hurricane (Typhoon),0,0,0,0,.15M
+NEW JERSEY,1999,September,Hurricane (Typhoon),0,0,0,0,.5M
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,35K
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,25K
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,15K
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,10K
+NEW YORK,1999,October,Thunderstorm Wind,0,0,0,0,10K
+WISCONSIN,1999,November,Heat,0,0,0,0,
+WISCONSIN,1999,November,Heat,0,0,0,0,
+MINNESOTA,1999,November,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+NEW JERSEY,1999,September,Flash Flood,0,0,1,0,5M
+NEW JERSEY,1999,September,Tropical Storm,0,0,0,0,
+NEW JERSEY,1999,September,Tropical Storm,0,0,0,0,.5M
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,1M
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,1M
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,2,0,0,0,3M
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Coastal Flood,0,0,0,0,
+NEW JERSEY,1999,September,Coastal Flood,0,0,0,0,
+NEW JERSEY,1999,September,Tropical Storm,0,0,0,0,
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,7M
+COLORADO,1999,October,Hail,0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,.5M
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,.15M
+NEW JERSEY,1999,September,Hurricane (Typhoon),0,0,0,0,.5M
+NEW JERSEY,1999,September,Tropical Storm,0,0,0,0,
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,7M
+WISCONSIN,1999,November,Heat,0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,0,0,0,0,1M
+PENNSYLVANIA,1999,September,Flash Flood,15,0,0,0,22M
+PENNSYLVANIA,1999,September,Flash Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,1,0,1,0,3M
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Drought,0,0,0,0,
+CALIFORNIA,1999,October,High Wind,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,1,0,0,0,
+CALIFORNIA,1999,October,Rip Current,12,0,1,0,
+CALIFORNIA,1999,October,Rip Current,0,0,0,0,
+CALIFORNIA,1999,October,Wildfire,0,0,0,0,
+NEW JERSEY,1999,September,Coastal Flood,0,0,0,0,
+NEW JERSEY,1999,September,Flash Flood,5,0,0,0,32M
+NEW JERSEY,1999,September,Flash Flood,72,0,0,0,28M
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,5M
+NEW JERSEY,1999,September,Flash Flood,3,0,0,0,8.5M
+NEW JERSEY,1999,September,Flash Flood,100,0,2,0,358M
+NEW JERSEY,1999,September,Flash Flood,6,0,0,0,30M
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,5.5M
+NEW JERSEY,1999,September,Heavy Rain,0,0,0,0,
+MARYLAND,1999,September,Flash Flood,1,0,0,0,3.25M
+MARYLAND,1999,September,Flash Flood,2,0,0,0,3M
+MARYLAND,1999,September,Flash Flood,0,0,0,0,1M
+MARYLAND,1999,September,Flash Flood,0,0,0,0,3.5M
+MARYLAND,1999,September,High Wind,0,0,0,0,
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,.4M
+PENNSYLVANIA,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Coastal Flood,0,0,0,0,
+VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,0
+MINNESOTA,1999,September,Hail,0,0,0,0,
+MINNESOTA,1999,September,Hail,0,0,0,0,
+WEST VIRGINIA,1999,September,Thunderstorm Wind,0,0,0,0,0K
+VIRGINIA,1999,September,Flood,0,0,0,0,
+NORTH CAROLINA,1999,September,Flood,0,0,0,0,
+VIRGINIA,1999,September,Flood,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+VIRGINIA,1999,September,Flash Flood,0,0,0,0,
+PUERTO RICO,1999,September,Flood,0,0,0,0,
+ALASKA,1999,November,High Wind,0,0,0,0,
+NEVADA,1999,September,Flash Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,14,0,1,0,15M
+PENNSYLVANIA,1999,September,Flash Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,8,0,3,0,12M
+PENNSYLVANIA,1999,September,Flash Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Flash Flood,0,0,1,0,4.2M
+PENNSYLVANIA,1999,September,Coastal Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Coastal Flood,0,0,0,0,
+PENNSYLVANIA,1999,September,Coastal Flood,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,High Wind,0,0,0,0,
+NEW JERSEY,1999,September,Coastal Flood,0,0,0,0,
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,7.5M
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,2.5M
+NEW JERSEY,1999,September,Flash Flood,0,0,0,0,7M
+MONTANA,1999,July,Hail,0,0,0,0,
+MONTANA,1999,July,Hail,0,0,0,0,
+MONTANA,1999,July,Funnel Cloud,0,0,0,0,
+MONTANA,1999,July,Hail,0,0,0,0,
+MASSACHUSETTS,1999,March,Heavy Snow,0,0,0,0,
+NORTH CAROLINA,1999,April,Thunderstorm Wind,0,0,0,0,5K
+NORTH CAROLINA,1999,April,Tornado,4,0,1,0,200K
+NORTH CAROLINA,1999,April,Thunderstorm Wind,0,0,0,0,50K
+NORTH CAROLINA,1999,April,Tornado,0,0,0,0,20K
+CALIFORNIA,1999,February,Hail,0,0,0,0,
+CALIFORNIA,1999,February,High Wind,0,0,0,0,600K
+WISCONSIN,1999,March,Strong Wind,0,0,0,0,
+ALABAMA,1999,October,Cold/Wind Chill,0,0,0,0,0K
+ALABAMA,1999,October,Drought,0,0,0,0,0K
+ALABAMA,1999,October,Cold/Wind Chill,0,0,0,0,0K
+ALABAMA,1999,October,Hail,0,0,0,0,5K
+MONTANA,1999,July,Hail,0,0,0,0,
+NEW HAMPSHIRE,1999,January,Winter Storm,0,0,0,0,
+MONTANA,1999,July,Hail,0,0,0,0,4K
+TEXAS,1999,September,Funnel Cloud,0,0,0,0,
+TEXAS,1999,September,Funnel Cloud,0,0,0,0,
+TEXAS,1999,September,Funnel Cloud,0,0,0,0,
+ARIZONA,1999,September,Hail,0,0,0,0,
+ARIZONA,1999,September,Hail,0,0,0,0,
+ARIZONA,1999,September,Hail,0,0,0,0,
+ARIZONA,1999,September,Flood,0,0,0,0,
+ARIZONA,1999,September,Thunderstorm Wind,0,0,0,0,
+ARIZONA,1999,September,Thunderstorm Wind,0,0,0,0,165K
+TEXAS,1999,September,Hail,0,0,0,0,
+NEW MEXICO,1999,March,Drought,0,0,0,0,
+NEBRASKA,1999,May,Hail,0,0,0,0,
+IOWA,1999,May,Hail,0,0,0,0,1K
+TENNESSEE,1999,May,Hail,0,0,0,0,
+TENNESSEE,1999,May,Hail,0,0,0,0,
+TENNESSEE,1999,May,Hail,0,0,0,0,
+TENNESSEE,1999,May,Thunderstorm Wind,0,0,0,0,
+MONTANA,1999,July,Hail,0,0,0,0,
+MAINE,1999,January,Winter Weather,0,0,0,0,
+MAINE,1999,January,Winter Weather,0,0,0,0,
+NEW HAMPSHIRE,1999,January,Cold/Wind Chill,0,0,0,0,
+OREGON,1999,October,Wildfire,0,0,0,0,
+NEW HAMPSHIRE,1999,September,Flood,0,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,
+NORTH CAROLINA,1999,August,Hail,0,0,0,0,
+TEXAS,1999,September,Hail,0,0,0,0,

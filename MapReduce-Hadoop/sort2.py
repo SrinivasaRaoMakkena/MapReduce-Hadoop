@@ -1,5 +1,5 @@
-n = open("mapper_output.txt","r")  
-s = open("sort.txt", "w")
+n = open("mapper_output1.txt","r")  
+s = open("sort1.txt", "w")
 l = n.readline()
 lines = n.readlines()
 lines.sort()
