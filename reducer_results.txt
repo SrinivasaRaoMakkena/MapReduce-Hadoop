@@ -1,0 +1,11 @@
+April	465000.0
+August	1398400.0
+December	55000.0
+February	600000.0
+January	3938500.0
+July	1245000.0
+June	167500.0
+May	45000.0
+November	19000.0
+October	263335000.0
+September	707516120.0
