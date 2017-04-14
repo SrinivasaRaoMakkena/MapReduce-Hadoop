@@ -1,0 +1,10 @@
+n = open("mapper_output1.txt","r")  
+s = open("sort.txt", "w")
+l = n.readline()
+lines = n.readlines()
+lines.sort()
+for line in lines:
+        print(line)
+        s.write(line)
+n.close()
+s.close()
