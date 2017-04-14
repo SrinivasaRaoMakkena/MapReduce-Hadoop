@@ -14,11 +14,19 @@ execfile('filename')
 
 Example: execfile('mapper.py')
 
+Data Source:
+-----------------------------------
+
+It might be a good source to work with a Map-Reduce algorithm obviously for the new who are learning because it consists of a lot of data to be considered as a big data problem.
+
+https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d1950_c20170120.csv.gz
+
 Steps
 -----------------------------------
 1. We  have Storms.csv file with lot of data
 
-2. Mapper.py---> Took 2 values from data as key value pairs and run this file using command---->
+2. Mapper.py---> Send the data set as a input to the mapper funtion and we will get output as a key-value pairs, which we will as input to the sort.py  ---->
+
 
 execfile('Mapper.py')
 
