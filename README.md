@@ -17,12 +17,15 @@ Example: execfile('mapper.py')
 Steps
 -----------------------------------
 1. We  have Storms.csv file with lot of data
-2. Mapper.py---> Took 2 values from data as key value pairs and run this file using command---->
+
+2. Mapper.py---> Took 2 values from data as key value pairs and run this file using command---->"\n"
 
 execfile('Mapper.py')
+
 3. Sort.py-----> Took this mapper output in one file and used it as input to the sort.py and sorted the data in alphabetical order.
 
 execfile('Sort.py')
+
 4. Reducer.py--> Took sort.py output to one file and pushed this as input to reducer.py file--> Yeah, we got final output as key value pairs and it is required one. 
 
 execfile('Reducer.py')
