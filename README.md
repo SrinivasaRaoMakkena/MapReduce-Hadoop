@@ -46,4 +46,4 @@ Reducer--output
 
 Graph: (Number of Deaths vs Month)
 ----------------------------------
-![Alt Chart Number of deaths vs Month ](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce1_Correct/graphImage1.PNG?raw=true "Bar Chart of  Number of deaths vs Month")
+![Alt Chart Number of deaths vs Month ](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce2_Correct/GraphImage2.PNG?raw=true "Bar Chart of  Number of deaths vs Month")
