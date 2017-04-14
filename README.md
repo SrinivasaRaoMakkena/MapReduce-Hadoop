@@ -8,4 +8,17 @@ Hadoop Map-reduce algorithm and using Python language.
 Calculated amount of property damaged due to storm events in each month of the particular year.
 
 
-![Alt Chart](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce1_Correct/graphImage1.PNG?raw=true "Optional Title")
+Map-Reduce Problem01
+---------------------------------------------------------------------------------------------------------------------------------------
+Mapper: output
+--------------
+![Alt Chart](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce1_Correct/MapperImage.PNG?raw=true "Mapper Output")
+
+Reducer---output
+----------------
+![Alt Chart](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce1_Correct/reducerImage.PNG?raw=true "Reducer Output")
+
+Final Graph: Which tells about 
+
+![Alt Chart](https://github.com/SrinivasaRaoMakkena/MapReduce-Hadoop/blob/master/MapReduce1_Correct/graphImage1.PNG?raw=true "Bar Chart of  PROPERTY_DAMAGE vs Month")
+
