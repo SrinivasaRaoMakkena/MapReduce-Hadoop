@@ -18,7 +18,7 @@ Steps
 -----------------------------------
 1. We  have Storms.csv file with lot of data
 
-2. Mapper.py---> Took 2 values from data as key value pairs and run this file using command---->"\n"
+2. Mapper.py---> Took 2 values from data as key value pairs and run this file using command---->
 
 execfile('Mapper.py')
 
